@@ -27,7 +27,7 @@ function App() {
     return (
         <div className="min-h-screen bg-gradient-to-r from-blue-50 to-indigo-50 p-6">
             <h1 className="text-4xl md:text-5xl font-bold text-center text-indigo-700 mb-8">
-                ?? Countries Explorer
+                Countries Explorer
             </h1>
 
             {/* Search input */}
